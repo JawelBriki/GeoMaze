@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GeoMaze</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="module" src="./main.js"></script>
+</head>
+<body>
+    <audio src="music/menu.mp3" id="menuMusic"></audio>
+    <audio src="music/level1.mp3" id="level1Music"></audio>
+    <audio src="music/level2to4.mp3" id="level2to4Music"></audio>
+    <audio src="music/level5to9.mp3" id="level5to9Music"></audio>
+    <audio src="music/level10.mp3" id="level10Music"></audio>
+    <audio src="music/win.mp3" id="winMusic"></audio>
+    <div id="gamestatus" hidden>
+        <p id="level">Level <span>1</span></p>
+        <p id="player1-score" hidden>P1: <span>0</span></p>
+        <span id="sep2" hidden>|</span>
+        <p id="player2-score" hidden>P2: <span>0</span></p>
+        <span id="sep3" hidden>|</span>
+        <p id="player3-score" hidden>P3: <span>0</span></p>
+        <span id="sep4" hidden>|</span>
+        <p id="player4-score" hidden>P4: <span>0</span></p>
+        <p id="timer">Time: <span>0</span></p>
+    </div>
+    <div id="menu">
+        <h1>GeoMaze</h1>
+
+        <div id="settings">
+            <h2>Game Settings</h2>
+            <form>
+                <fieldset>
+                    <legend>Number of Players</legend>
+                    <input  type="radio" id="1p" name="players" value="1"/>
+                    <label for="1p">1 player</label>
+                    <input  type="radio" id="2p" name="players" value="2"/>
+                    <label for="2p">2 players</label>
+                    <input  type="radio" id="3p" name="players" value="3"/>
+                    <label for="3p">3 players</label>
+                    <input  type="radio" id="4p" name="players" value="4"/>
+                    <label for="4p">4 players</label>
+                </fieldset>
+
+                <div id="colors"></div>
+                <div id="controls"></div>
+
+                <button id="startgame" type="button">Start Game</button>
+            </form>
+        </div>
+    </div>
+    <div id="canvas">
+        <canvas id="game" width="1900" height="820" hidden>Your browser doesn't support canvas.</canvas>
+    </div>
+</body>
+</html>

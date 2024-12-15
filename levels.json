@@ -1,0 +1,100 @@
+{
+  "2": [
+    {"x": 0, "y": 385, "width": 900, "height": 50, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 1000, "y": 385, "width": 900, "height": 50, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 1840, "y": 760, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "exit"}
+  ],
+
+  "3": [
+    {"x": 200, "y": 160, "width": 100, "height": 100, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 900, "y": 360, "width": 100, "height": 100, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 1600, "y": 160, "width": 100, "height": 100, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 200, "y": 560, "width": 100, "height": 100, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 1600, "y": 560, "width": 100, "height": 100, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 1840, "y": 760, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "exit"}
+  ],
+
+  "4": [
+    {"x": 200, "y": 0, "width": 100, "height": 720, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 900, "y": 100, "width": 100, "height": 720, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 1600, "y": 0, "width": 100, "height": 720, "speedX": 0, "speedY": 0, "type": "wall"},
+    {"x": 1840, "y": 0, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "exit"}
+  ],
+
+  "5": [
+    {"x": 200, "y": 0, "width": 100, "height": 720, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 900, "y": 100, "width": 100, "height": 720, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1600, "y": 0, "width": 100, "height": 720, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1840, "y": 0, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "exit"}
+  ],
+
+  "6": [
+    {"x": 70, "y": 0, "width": 530, "height": 780, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 700, "y": 0, "width": 230, "height": 250, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 700, "y": 320, "width": 230, "height": 500, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1100, "y": 580, "width": 150, "height": 150, "speedX": 0, "speedY": -5, "type": "wall"},
+    {"x": 1300, "y": 260, "width": 150, "height": 150, "speedX": 0, "speedY": -5, "type": "wall"},
+    {"x": 1500, "y": 580, "width": 150, "height": 150, "speedX": 0, "speedY": -5, "type": "wall"},
+    {"x": 1840, "y": 760, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "exit"}
+  ],
+
+  "7": [
+    {"x": 60, "y": 0, "width": 1840, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1840, "y": 60, "width": 60, "height": 700, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 60, "y": 760, "width": 1720, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 120, "y": 180, "width": 60, "height": 300, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 180, "y": 180, "width": 180, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 180, "y": 420, "width": 60, "height": 180, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 240, "y": 420, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 300, "y": 420, "width": 120, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 420, "y": 360, "width": 60, "height": 120, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 480, "y": 360, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 660, "y": 120, "width": 60, "height": 300, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 720, "y": 120, "width": 180, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 720, "y": 360, "width": 60, "height": 180, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 780, "y": 360, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 840, "y": 360, "width": 120, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 960, "y": 300, "width": 60, "height": 120, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1020, "y": 300, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1200, "y": 60, "width": 60, "height": 300, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1260, "y": 60, "width": 180, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1260, "y": 300, "width": 60, "height": 180, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1320, "y": 300, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1380, "y": 300, "width": 120, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1500, "y": 240, "width": 60, "height": 120, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1560, "y": 240, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1740, "y": 0, "width": 60, "height": 240, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 60, "y": 600, "width": 1560, "height": 60, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 60, "y": 600, "width": 60, "height": 160, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1840, "y": 760, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "exit"}
+  ],
+
+  "8": [
+    {"x": 150, "y": 0, "width": 200, "height": 200, "speedX": 0, "speedY": 2, "type": "deathwall"},
+    {"x": 500, "y": 620, "width": 200, "height": 200, "speedX": 0, "speedY": -2, "type": "deathwall"},
+    {"x": 850, "y": 0, "width": 200, "height": 200, "speedX": 0, "speedY": 2, "type": "deathwall"},
+    {"x": 1200, "y": 620, "width": 200, "height": 200, "speedX": 0, "speedY": -2, "type": "deathwall"},
+    {"x": 1550, "y": 0, "width": 200, "height": 200, "speedX": 0, "speedY": 2, "type": "deathwall"},
+    {"x": 1840, "y": 760, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "exit"}
+  ],
+
+  "9": [
+    {"x": 150, "y": 0, "width": 200, "height": 200, "speedX": 0, "speedY": 6, "type": "deathwall"},
+    {"x": 500, "y": 620, "width": 200, "height": 200, "speedX": 0, "speedY": -6, "type": "deathwall"},
+    {"x": 850, "y": 0, "width": 200, "height": 200, "speedX": 0, "speedY": 6, "type": "deathwall"},
+    {"x": 1200, "y": 620, "width": 200, "height": 200, "speedX": 0, "speedY": -6, "type": "deathwall"},
+    {"x": 1550, "y": 0, "width": 200, "height": 200, "speedX": 0, "speedY": 6, "type": "deathwall"},
+    {"x": 1840, "y": 760, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "exit"}
+  ],
+
+  "10": [
+    {"x": 150, "y": 0, "width": 200, "height": 200, "speedX": 0, "speedY": 4, "type": "deathwall"},
+    {"x": 500, "y": 620, "width": 200, "height": 200, "speedX": 0, "speedY": -4, "type": "deathwall"},
+    {"x": 850, "y": 0, "width": 200, "height": 200, "speedX": 0, "speedY": 4, "type": "deathwall"},
+    {"x": 1200, "y": 620, "width": 200, "height": 200, "speedX": 0, "speedY": -4, "type": "deathwall"},
+    {"x": 1550, "y": 0, "width": 200, "height": 200, "speedX": 0, "speedY": 4, "type": "deathwall"},
+    {"x": 100, "y": 0, "width": 1700, "height": 360, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 100, "y": 460, "width": 1700, "height": 360, "speedX": 0, "speedY": 0, "type": "deathwall"},
+    {"x": 1840, "y": 760, "width": 60, "height": 60, "speedX": 0, "speedY": 0, "type": "exit"}
+  ]
+}

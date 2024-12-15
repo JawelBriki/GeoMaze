@@ -1,0 +1,117 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 4em;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+#settings {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    text-align: center;
+    overflow-y: auto;
+    max-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#settings > * {
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+fieldset {
+    border: none;
+    padding: 0;
+    margin-bottom: 20px;
+    width: 100%; /* Make fieldset take full width */
+}
+
+legend {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2e7a31;
+}
+
+#canvas {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#game {
+    border: 2px solid black;
+}
+
+#colors, #controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#colors label, #controls label {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#colors input, #controls select {
+    margin-bottom: 10px;
+}
+
+#gamestatus {
+    position: absolute;
+    top: 25px;
+}
+
+#level {
+    display: inline;
+    font-weight: bold;
+    position: relative;
+    right: 50px;
+}
+
+#timer {
+    display: inline;
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+}
